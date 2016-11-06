@@ -1,0 +1,16 @@
+.border{
+	border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 30%;
+}
+.pad{
+	padding: 1000px;
+}
+h2{
+	font-style: Monospace;
+	color: black;
+}
+.a1{
+	color: black;
+}
