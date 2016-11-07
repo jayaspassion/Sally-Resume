@@ -7,10 +7,44 @@
 .pad{
 	padding: 1000px;
 }
-h2{
-	font-style: Monospace;
-	color: black;
+h1{
+	font-size: 50px;
+	text-shadow: 2px 2px white;
+	margin-bottom: -30px; 
 }
+h2{
+	font-family: 'Anton';
+	color: black;
+	text-shadow: 2px 2px blue;
+}
+
 .a1{
 	color: black;
+}
+.back{
+	background-image:url(https://i.ytimg.com/vi/xwQ5YpcCDHk/maxresdefault.jpg);
+	background-size: fill;
+}
+main{
+	margin: 100px;
+}
+.block{
+	background-color: rgba(1000,1000,1000,.85);
+	border: 2px solid black;
+	height: wrap;
+	width: fill;
+	border-radius: 3%;
+	padding-left: 100px;
+	margin-bottom: 20px; 
+
+}
+main hr{
+	border-color: black;
+	margin: 5px 15px 0px -80px; 
+}
+p{
+	font-family: 'Anton';
+}
+li{
+	font-family: 'Anton';
 }
